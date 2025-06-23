@@ -1,10 +1,10 @@
 # Hi there, I'm Anshita 👋
 
-🎓 5th year CSE Dual Degree student
+🎓 Currently in the 5th year of my Integrated M.Tech in  Computer Science and Engineering
 
-💻 Passionate about Software Development  
+💻 Passionate about Software Development and enjoy problem solving  
 
-📚 Currently working on the usecases of deep learning in healtcare for my masters 
+📚 Currently working on the use cases of deep learning in healthcare for my masters 
 
 ## 🛠️ Technologies
 
