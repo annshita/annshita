@@ -1,6 +1,6 @@
 ## Helluuuuuu, I'm Anshita
 
-Currently in the 5th year of my Integrated M.Tech in  Computer Science and Engineering.
+5th year Integrated M.Tech student in Computer Science and Engineering.
 
 Passionate about Software Development and enjoy problem solving.  
 
