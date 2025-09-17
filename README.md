@@ -64,7 +64,7 @@ Currently working on the use cases of deep learning in healthcare for my masters
 </p>
 
 
-## Other Profiles:
+## Other Profiles
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/annshhita)](https://leetcode.com/annshhita)
 [![GeeksforGeeks](https://img.shields.io/badge/-GFG-4F9F38?style=flat-square&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/annshita)](https://auth.geeksforgeeks.org/user/annshita)
